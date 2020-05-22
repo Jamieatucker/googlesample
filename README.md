@@ -1,5 +1,3 @@
-This is my first Google repository and commit.
+# About Me
 
-I am making changes to this file.
-
-This new line will be added to the third push of this git.
+This is about me. But not *everything* about me, ease into the process.
